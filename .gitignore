@@ -1,0 +1,5 @@
+.venv
+.env
+venv/
+./async_extr.py
+async_extr.py

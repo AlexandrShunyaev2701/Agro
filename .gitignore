@@ -3,3 +3,13 @@
 venv/
 ./async_extr.py
 async_extr.py
+# IDE files
+.idea/
+*.iml
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Cache files
+*.egg-info/
